@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_weather">WeatherActivity</string>
+    <string name="search">Search</string>
+    <string name="welcome_txt">Welcome to weather forecast</string>
+    <string name="hint_txt">Enter the search city</string>
+    <string name="state">State</string>
+</resources>
